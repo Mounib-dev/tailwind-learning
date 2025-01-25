@@ -665,6 +665,10 @@ h6{
   top: 100%;
 }
 
+.-top-8{
+  top: -2rem;
+}
+
 .mx-auto{
   margin-left: auto;
   margin-right: auto;
@@ -697,6 +701,14 @@ h6{
 
 .mt-2{
   margin-top: 0.5rem;
+}
+
+.mb-5{
+  margin-bottom: 1.25rem;
+}
+
+.mt-\[-70px\]{
+  margin-top: -70px;
 }
 
 .block{
@@ -857,6 +869,10 @@ h6{
 
 .overflow-x-auto{
   overflow-x: auto;
+}
+
+.scroll-smooth{
+  scroll-behavior: smooth;
 }
 
 .whitespace-nowrap{
